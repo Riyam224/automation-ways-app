@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo 2',
+      title: 'Flutter Demo 22',
       theme: ThemeData(primarySwatch: Colors.deepOrange),
       home: const Scaffold(body: Center(child: Text('Automation App'))),
     );
