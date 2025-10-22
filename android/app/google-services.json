@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "643306467909",
+    "project_id": "automation-app-86cb7",
+    "storage_bucket": "automation-app-86cb7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643306467909:android:e0dced006631aeda2c292c",
+        "android_client_info": {
+          "package_name": "com.example.automation_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF1Vc2oKzTcZYUEaYh_I5nmSYVOOC_IhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
